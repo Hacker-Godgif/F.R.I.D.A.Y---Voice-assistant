@@ -1,8 +1,9 @@
-# F.R.I.D.A.Y---Voice-assistant
-Author - Om Sinha.
+Author - Om sinha
 <br>
-Install all the required packages ( pip install package name) in terminal.
+First of all u need to install all the required packages in your system(pip install package name)
 <br>
-You may also need an API Key of wolframalpha and accuweather.
+If you want to use wolframalpha n weather services u may need an API key
 <br>
-Other instructions are given inside the code.
+Add your folder location where I mentioned
+<br>
+
