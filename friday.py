@@ -89,7 +89,7 @@ def sleeptime():
             speak(f"You slept for {sleeptime} hours")
 
 def wishMe():
-    #playsound.playsound('laugh.mp3')
+    #playsound.playsound('laugh.mp3') #you can add any other audio file as per our choice
     speak("Welcome back sir!")
     hour = int(datetime.datetime.now().hour)
     if hour>=6 and hour<12:
@@ -198,7 +198,7 @@ def translate():
 
 def screenshot():
     img = pi.screenshot()
-    img.save("Your location address")
+    img.save("Your location address") # your folder location address
 
 
 
